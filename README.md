@@ -22,3 +22,16 @@ The analysis includes:
 - diagnostics of structural missingness in the ESS climate module.
 
 The main analysis focuses on climate attitudes, socio-demographic characteristics, political orientation, political trust, and country-level heterogeneity.
+
+## Data
+
+The analysis uses the integrated European Social Survey Round 8,
+Edition 2.3 dataset.
+
+The ESS data is too large and is therefore not included in this repository. The dataset can be
+downloaded from the European Social Survey Data Portal:
+
+https://www.europeansocialsurvey.org/
+
+After downloading the data, place the following file in the repository
+ESS8e02_3.csv
