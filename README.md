@@ -22,11 +22,3 @@ The analysis includes:
 - diagnostics of structural missingness in the ESS climate module.
 
 The main analysis focuses on climate attitudes, socio-demographic characteristics, political orientation, political trust, and country-level heterogeneity.
-
-## Repository structure
-
-```text
-Who-Supports-Climate-Policy/
-├── README.md
-├── analysis.R
-└── outputs/
